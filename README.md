@@ -1,6 +1,6 @@
 # Calyx Chisiza
 
-I build small, tested infrastructure in Go, and software for businesses and Windows.
+I build small, tested infrastructure, and software for businesses and Windows.
 
 ## Infrastructure
 
@@ -15,6 +15,11 @@ I build small, tested infrastructure in Go, and software for businesses and Wind
 | [forgeproxy](https://github.com/calyxchisiza-cloud/forgeproxy) | Reverse proxy with longest-prefix routes and health checks |
 | [forgeobserve](https://github.com/calyxchisiza-cloud/forgeobserve) | Metrics, traces, and a diagnostic log for one process |
 | [forgestore](https://github.com/calyxchisiza-cloud/forgestore) | Content-addressed object store on one disk |
+| [beacon](https://github.com/calyxchisiza-cloud/beacon) | Feature flags with percentage rollouts and a cached evaluation API |
+| [accord](https://github.com/calyxchisiza-cloud/accord) | Three-node log where a write is visible after a majority stores it |
+| [cove](https://github.com/calyxchisiza-cloud/cove) | Run a command with a time limit, an output cap, and a memory cap |
+| [waymark](https://github.com/calyxchisiza-cloud/waymark) | Private DNS that answers while a name's TTL still has time left |
+| [folio](https://github.com/calyxchisiza-cloud/folio) | Full-text search ranked by how many query terms a document contains |
 
 ## Software
 

@@ -1,6 +1,6 @@
 # Calyx Chisiza
 
-I build small, tested infrastructure in Go, and software for schools, businesses, and Windows.
+I build small, tested infrastructure in Go, and software for businesses and Windows.
 
 ## Infrastructure
 
@@ -21,7 +21,4 @@ I build small, tested infrastructure in Go, and software for schools, businesses
 | Repository | What it is |
 | --- | --- |
 | [CALYX](https://github.com/calyxchisiza-cloud/calyx-voice-assistant) | A voice assistant that runs on Windows |
-| [Convoflow](https://github.com/calyxchisiza-cloud/convoflow) | Conversation workspace for messages, files, and shared activities |
-| [MaNezaMw](https://github.com/calyxchisiza-cloud/MaNezaMw-CLM) | School management system |
-| [Chikopa Plans](https://github.com/calyxchisiza-cloud/chikopa_plans) | Website and PHP API for Chikopa Plans |
 | [Data Factory Tech Hub](https://github.com/calyxchisiza-cloud/data-factory) | Site for a technology partner in Mzuzu |

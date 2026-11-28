@@ -26,6 +26,7 @@ I build small, tested infrastructure, and software for businesses and Windows.
 | Repository | What it is |
 | --- | --- |
 | [CALYX](https://github.com/calyxchisiza-cloud/calyx-voice-assistant) | A voice assistant that runs on Windows |
+| [Sauti](https://sauti-alpha.vercel.app) | Music distribution and release preparation for independent artists in Malawi |
 | [Callflow](https://github.com/calyxchisiza-cloud/callflow) | Callflow CRM — marketing site and product app |
 | [Stead](https://github.com/calyxchisiza-cloud/stead) | A property desk for units, leases, rent, and maintenance |
-| [data-factory](https://github.com/calyxchisiza-cloud/data-factory) · [data-factory-tech-hub](https://github.com/calyxchisiza-cloud/data-factory-tech-hub) | Site for a technology partner in Mzuzu |
+| [Data Factory Tech Hub](https://github.com/calyxchisiza-cloud/data-factory-tech-hub) | Site for a technology partner in Mzuzu |
